@@ -1,0 +1,29 @@
+.container-1{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+
+
+.top{
+    border: 1px solid red;
+    color: seashell;
+    background: black;
+}
+.flex-box-container-1{
+    display: flex;
+    border: 1px solid black;
+    background: darkgray;
+    padding: 10px;
+    justify-content: space-around;
+
+}
+.flex-box-container-1 div{
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+
+}
